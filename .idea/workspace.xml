@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fbd7402-b5db-4a75-a452-466b02b1dc37" name="Default Changelist" comment="" />
+    <list default="true" id="6fbd7402-b5db-4a75-a452-466b02b1dc37" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/gettoworktogether/springbootstartertestjunitjupiter/util/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/nl/gettoworktogether/springbootstartertestjunitjupiter/util/CounterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,6 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ie49XYEQKekZH8sNQIFNO8YbYa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/nl/gettoworktogether" />
@@ -43,10 +56,11 @@
     <property name="project.structure.side.proportion" value="0.29655173" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="nl.gettoworktogether.springbootstartertest.repository" />
-      <recent name="nl.gettoworktogether.springbootstartertest.service" />
-      <recent name="nl.gettoworktogether.springbootstartertest.model" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nl.gettoworktogether.springbootstartertest.util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="nl.gettoworktogether.springbootstartertest.service" />
@@ -56,11 +70,13 @@
       <recent name="nl.gettoworktogether.springbootstartertest.controller" />
       <recent name="nl.gettoworktogether.springbootstartertest.service" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="nl.gettoworktogether.springbootstartertest.repository" />
+      <recent name="nl.gettoworktogether.springbootstartertest.service" />
+      <recent name="nl.gettoworktogether.springbootstartertest.model" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="nl.gettoworktogether.springbootstartertest.util" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nl.gettoworktogether.springbootstartertestjunitjupiter.util" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.CounterTest.canInstantiate">
@@ -169,6 +185,11 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added PostgreSQL" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
