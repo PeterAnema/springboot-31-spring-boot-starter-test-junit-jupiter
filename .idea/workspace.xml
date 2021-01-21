@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fbd7402-b5db-4a75-a452-466b02b1dc37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ie49XYEQKekZH8sNQIFNO8YbYa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/nl/gettoworktogether" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29655173" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="nl.gettoworktogether.springbootstartertest.repository" />
+      <recent name="nl.gettoworktogether.springbootstartertest.service" />
+      <recent name="nl.gettoworktogether.springbootstartertest.model" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="nl.gettoworktogether.springbootstartertest.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nl.gettoworktogether.springbootstartertest.repository" />
+      <recent name="nl.gettoworktogether.springbootstartertest.controller" />
+      <recent name="nl.gettoworktogether.springbootstartertest.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nl.gettoworktogether.springbootstartertest.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CounterTest.canInstantiate">
+    <configuration name="CounterTest.canInstantiate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-starter-test-junit-jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertest.util" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertest.util.CounterTest" />
+      <option name="METHOD_NAME" value="canInstantiate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceImplIntegrationTest.testGetCustomerByLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-starter-test-junit-jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.CustomerServiceImplIntegrationTest" />
+      <option name="METHOD_NAME" value="testGetCustomerByLastName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceImplIntegrationTest.testGetCustomerByLastName2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-starter-test-junit-jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.CustomerServiceImplIntegrationTest" />
+      <option name="METHOD_NAME" value="testGetCustomerByLastName2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nl.gettoworktogether.springbootstartertestjunitjupiter in spring-boot-starter-test-junit-jupiter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-starter-test-junit-jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CounterTest.canInstantiate" />
+        <item itemvalue="JUnit.CustomerServiceImplIntegrationTest.testGetCustomerByLastName" />
+        <item itemvalue="JUnit.CustomerServiceImplIntegrationTest.testGetCustomerByLastName2" />
+        <item itemvalue="JUnit.nl.gettoworktogether.springbootstartertestjunitjupiter in spring-boot-starter-test-junit-jupiter" />
+        <item itemvalue="JUnit.Whole project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fbd7402-b5db-4a75-a452-466b02b1dc37" name="Default Changelist" comment="" />
+      <created>1602254573796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602254573796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.UnsatisfiedDependencyException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="service.getAllCustomers()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_starter_test_junit_jupiter$nl_gettoworktogether_springbootstartertest_in_spring_boot_starter_test.ic" NAME="nl.gettoworktogether.springbootstartertest in spring-boot-starter-test Coverage Results" MODIFIED="1602529738228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.gettoworktogether.springbootstartertest.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/spring_boot_starter_test_junit_jupiter$nl_gettoworktogether_springbootstartertestjunitjupiter_in_spring_boot_starter_test_junit_jupiter.ic" NAME="nl.gettoworktogether.springbootstartertestjunitjupiter in spring-boot-starter-test-junit-jupiter Coverage Results" MODIFIED="1602529833051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.gettoworktogether.springbootstartertestjunitjupiter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/spring_boot_starter_test_junit_jupiter$CustomerTest.ic" NAME="CustomerTest Coverage Results" MODIFIED="1602529691122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.gettoworktogether.springbootstartertest.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
