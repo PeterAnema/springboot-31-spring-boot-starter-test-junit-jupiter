@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fbd7402-b5db-4a75-a452-466b02b1dc37" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/gettoworktogether/springbootstartertestjunitjupiter/util/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/nl/gettoworktogether/springbootstartertestjunitjupiter/util/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/gettoworktogether/springbootstartertestjunitjupiter/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/nl/gettoworktogether/springbootstartertestjunitjupiter/controller/BaseControllerIntegrationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-test-junit-jupiter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-test-junit-jupiter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +82,35 @@
       <recent name="nl.gettoworktogether.springbootstartertestjunitjupiter.util" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CounterTest.canInstantiate">
+  <component name="RunManager" selected="JUnit.BaseControllerIntegrationTest">
+    <configuration name="SpringBootStarterTestJunitJupiterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.SpringBootStarterTestJunitJupiterApplication" />
+      <module name="spring-boot-starter-test-junit-jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-starter-test-junit-jupiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller.BaseControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CounterTest.canInstantiate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-starter-test-junit-jupiter" />
       <extension name="coverage">
@@ -96,59 +127,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerServiceImplIntegrationTest.testGetCustomerByLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MockMvcExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-starter-test-junit-jupiter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.*" />
+          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service" />
-      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.CustomerServiceImplIntegrationTest" />
-      <option name="METHOD_NAME" value="testGetCustomerByLastName" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.controller.MockMvcExampleTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerServiceImplIntegrationTest.testGetCustomerByLastName2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-starter-test-junit-jupiter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service" />
-      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.service.CustomerServiceImplIntegrationTest" />
-      <option name="METHOD_NAME" value="testGetCustomerByLastName2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nl.gettoworktogether.springbootstartertestjunitjupiter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="PARAMETERS" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nl.gettoworktogether.springbootstartertestjunitjupiter in spring-boot-starter-test-junit-jupiter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpringBootStarterTestApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-starter-test-junit-jupiter" />
       <extension name="coverage">
         <pattern>
@@ -157,18 +151,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.springbootstartertestjunitjupiter.SpringBootStarterTestApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BaseControllerIntegrationTest" />
+        <item itemvalue="JUnit.SpringBootStarterTestApplicationTests" />
+        <item itemvalue="JUnit.MockMvcExampleTests" />
+        <item itemvalue="Application.SpringBootStarterTestJunitJupiterApplication" />
         <item itemvalue="JUnit.CounterTest.canInstantiate" />
-        <item itemvalue="JUnit.CustomerServiceImplIntegrationTest.testGetCustomerByLastName" />
-        <item itemvalue="JUnit.CustomerServiceImplIntegrationTest.testGetCustomerByLastName2" />
-        <item itemvalue="JUnit.nl.gettoworktogether.springbootstartertestjunitjupiter in spring-boot-starter-test-junit-jupiter" />
-        <item itemvalue="JUnit.Whole project" />
       </list>
     </recent_temporary>
   </component>
@@ -181,10 +176,29 @@
       <option name="presentableId" value="Default" />
       <updated>1602254573796</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1611228353684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611228353685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added PostgreSQL" />
